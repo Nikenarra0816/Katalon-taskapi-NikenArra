@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_POST_Login_User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>daf2bb94-d77b-4b91-875b-9a98c9f51d78</testCaseGuid>
+</TestCaseEntity>

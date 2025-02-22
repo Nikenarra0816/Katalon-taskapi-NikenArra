@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_POST_Logout_User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e156e287-b40c-4a8e-ab7f-ce751ba89ce2</testCaseGuid>
+</TestCaseEntity>
