@@ -3,6 +3,9 @@
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk menguji API menggunakan Katalon Studio. Pengujian mencakup berbagai endpoint untuk memastikan respons dan fungsionalitas sesuai dengan spesifikasi.
 
+## Skenario API Testing
+https://docs.google.com/spreadsheets/d/1f0HQPfkgtnqEXto722RvQ45b5BfNzpywTDwcUroPdJ4/edit?usp=sharing
+
 ## Struktur Proyek
 - **Test Cases**: Berisi skenario pengujian individual untuk setiap endpoint.
 - **Object Repository**: Menyimpan definisi objek yang berinteraksi dengan API.
